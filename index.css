@@ -1,9 +1,14 @@
 a{
-    color: #ff764e
+    color: #ff764e;
+    font-family: 'Chelsea Market', cursive;
 }
 #Learn{
     color:#5ed3eb
 }
 #Get{
 color: #ffcd69
+}
+
+p {
+    font-family: 'Roboto Mono', monospace;
 }
